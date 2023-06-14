@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285813708397'] //ur owner number
-global.ownernomer = "6285813708397" //ur owner number2
-global.ownername = "FallZx" //ur owner name
-global.ytname = "YT: FallXD425" //ur yt chanel name
-global.socialm = "GitHub: FallEzz" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94703698781'] //ur owner number
+global.ownernomer = "94703698781" //ur owner number2
+global.ownername = "o s h a d a " //ur owner name
+global.ytname = "YT: o s h a d a " //ur yt chanel name
+global.socialm = "GitHub:  o s h a d a " //ur github or insta name
+global.location = " o s h a d a " //ur location
 
 //new
-global.botname = "Fuirly Botz - MD"
-global.ownernumber = '6285813708397'
-global.ownername = '6285813708397'
-global.ownerNumber = ["6285813708397@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@FallXD425"
-global.websitex = "https://youtu.be/ecl-JDVDz3E"
-global.wagc = "https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ"
+global.botname = "s a t a n - MD"
+global.ownernumber = '94703698781'
+global.ownername = '94703698781'
+global.ownerNumber = ["94703698781@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@94703698781"
+global.websitex = "https://youtu.be/ecl-94703698781"
+global.wagc = "https://chat.whatsapp.com/94703698781"
 global.themeemoji = '🥀'
-global.wm = "FallZx"
-global.botscript = 'Silahkan Datang Ke Channel FallXD425' //script link
+global.wm = "s t a n"
+global.botscript = 'S94703698781' //script link
 global.packname = "Sticker By"
-global.author = "Fuirly\n\n\nA whatsapp bot Created by\nFallZx Development\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +6285813708397"
-global.creator = "6285813708397@s.whatsapp.net"
+global.author = "s t a n\n\n\nA whatsapp bot Created by\noshada Development\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +94703698781"
+global.creator = "94703698781@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
